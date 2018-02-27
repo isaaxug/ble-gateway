@@ -1,0 +1,12 @@
+{
+  "name": "ble-gateway",
+  "version": "0.1.0",
+  "description": "BLE Gateway example application",
+  "main": "main.py",
+  "author": "",
+  "language":"python",
+  "license": "",
+  "scripts": {
+     "start": "python3 -u main.py"
+    }
+}
